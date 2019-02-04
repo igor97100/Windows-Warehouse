@@ -1,0 +1,7 @@
+C:\Users\Igor\Desktop\APOTHIKI_4116\APOTHIKI_4116\APOTHIKI_4116\obj\x86\Debug\APOTHIKI_4115.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Desktop\APOTHIKI_4116\APOTHIKI_4116\APOTHIKI_4116\obj\x86\Debug\APOTHIKI_4116.Form1.resources
+C:\Users\Igor\Desktop\APOTHIKI_4116\APOTHIKI_4116\APOTHIKI_4116\obj\x86\Debug\APOTHIKI_4116.FormIstorikoApothikis.resources
+C:\Users\Igor\Desktop\APOTHIKI_4116\APOTHIKI_4116\APOTHIKI_4116\obj\x86\Debug\APOTHIKI_4116.FormIstorikoPelatwn.resources
+C:\Users\Igor\Desktop\APOTHIKI_4116\APOTHIKI_4116\APOTHIKI_4116\obj\x86\Debug\APOTHIKI_4115.Properties.Resources.resources
+C:\Users\Igor\Desktop\APOTHIKI_4116\APOTHIKI_4116\APOTHIKI_4116\obj\x86\Debug\APOTHIKI_4115.csproj.GenerateResource.cache
+C:\Users\Igor\Desktop\APOTHIKI_4116\APOTHIKI_4116\APOTHIKI_4116\obj\x86\Debug\APOTHIKI_4115.csproj.CoreCompileInputs.cache

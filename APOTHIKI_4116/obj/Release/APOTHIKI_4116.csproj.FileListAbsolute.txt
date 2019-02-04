@@ -1,0 +1,11 @@
+C:\Users\Igor\Desktop\APOTHIKI_4116\APOTHIKI_4116\APOTHIKI_4116\bin\Release\APOTHIKI_4116.exe.config
+C:\Users\Igor\Desktop\APOTHIKI_4116\APOTHIKI_4116\APOTHIKI_4116\bin\Release\APOTHIKI_4116.exe
+C:\Users\Igor\Desktop\APOTHIKI_4116\APOTHIKI_4116\APOTHIKI_4116\bin\Release\APOTHIKI_4116.pdb
+C:\Users\Igor\Desktop\APOTHIKI_4116\APOTHIKI_4116\APOTHIKI_4116\obj\Release\APOTHIKI_4116.Form1.resources
+C:\Users\Igor\Desktop\APOTHIKI_4116\APOTHIKI_4116\APOTHIKI_4116\obj\Release\APOTHIKI_4116.FormIstorikoApothikis.resources
+C:\Users\Igor\Desktop\APOTHIKI_4116\APOTHIKI_4116\APOTHIKI_4116\obj\Release\APOTHIKI_4116.FormIstorikoPelatwn.resources
+C:\Users\Igor\Desktop\APOTHIKI_4116\APOTHIKI_4116\APOTHIKI_4116\obj\Release\APOTHIKI_4116.Properties.Resources.resources
+C:\Users\Igor\Desktop\APOTHIKI_4116\APOTHIKI_4116\APOTHIKI_4116\obj\Release\APOTHIKI_4116.csproj.GenerateResource.cache
+C:\Users\Igor\Desktop\APOTHIKI_4116\APOTHIKI_4116\APOTHIKI_4116\obj\Release\APOTHIKI_4116.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\APOTHIKI_4116\APOTHIKI_4116\APOTHIKI_4116\obj\Release\APOTHIKI_4116.exe
+C:\Users\Igor\Desktop\APOTHIKI_4116\APOTHIKI_4116\APOTHIKI_4116\obj\Release\APOTHIKI_4116.pdb
